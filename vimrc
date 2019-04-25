@@ -12,5 +12,5 @@ set runtimepath+=~/.vim/bundle/nerdtree
 set runtimepath+=~/.vim/bundle/vim-javascript
 
 set t_Co=256
-set background=light
+set background=dark
 colorscheme PaperColor
